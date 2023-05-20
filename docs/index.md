@@ -14,8 +14,6 @@ Most likely, you have little to no knowledge on Python or code in general. That'
 
 Glad you asked! Here's a list of all the things we will be covering before we start. If you feel comfortable skipping ahead because you have a bit of prior knowledge, that's fine too.
 
-
-
 - [Hello World:](hello-world.md)
 `print` `input` `\n` `\t`
 - [Variables and Datatypes:]()
@@ -28,4 +26,3 @@ Glad you asked! Here's a list of all the things we will be covering before we st
 `for` `while`
 - Functions:
 `def`
-
