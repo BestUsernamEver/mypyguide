@@ -1,0 +1,7 @@
+site_name: Isaiah's Python Starter Guide
+site_url: https://learnpython.com/isaiahs-py-guide
+nav:
+  - Welcome: index.md
+  - Hello World: helloworld.md
+theme:
+  name: material
